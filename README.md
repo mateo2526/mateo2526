@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is mateo cortes , i am a software programmer and create digital art, i study in a M.I.T.
 
 <!--
 **mateo2526/mateo2526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
